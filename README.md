@@ -4,9 +4,9 @@ This repo contains all the must do coding questions in DSA and their solutions u
 
 Below are the list of topics that will be covered are :
 
-1	Math
+**1**.	Math
 
-2	BitMagic
+**2**.	BitMagic
 
 3	Algorithms
 
