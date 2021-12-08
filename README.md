@@ -33,6 +33,7 @@ Thanks if you like my work !!
 
 I love connecting with new people, give me a shout at 
 
-Email : singlashubham1206@gmail.com
-Linkedin : https://www.linkedin.com/in/shubham-singla-1206/
+**Email** : singlashubham1206@gmail.com
+
+**Linkedin** : https://www.linkedin.com/in/shubham-singla-1206/
 
